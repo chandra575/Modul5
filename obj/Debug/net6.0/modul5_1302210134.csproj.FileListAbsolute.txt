@@ -1,0 +1,15 @@
+D:\Chandra\modul5_1302210134\bin\Debug\net6.0\modul5_1302210134.exe
+D:\Chandra\modul5_1302210134\bin\Debug\net6.0\modul5_1302210134.deps.json
+D:\Chandra\modul5_1302210134\bin\Debug\net6.0\modul5_1302210134.runtimeconfig.json
+D:\Chandra\modul5_1302210134\bin\Debug\net6.0\modul5_1302210134.dll
+D:\Chandra\modul5_1302210134\bin\Debug\net6.0\modul5_1302210134.pdb
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.csproj.AssemblyReference.cache
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.AssemblyInfoInputs.cache
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.AssemblyInfo.cs
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.csproj.CoreCompileInputs.cache
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.dll
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\refint\modul5_1302210134.dll
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.pdb
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\modul5_1302210134.genruntimeconfig.cache
+D:\Chandra\modul5_1302210134\obj\Debug\net6.0\ref\modul5_1302210134.dll
