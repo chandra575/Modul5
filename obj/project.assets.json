@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Chandra\\modul5_1302210134\\modul5_1302210134.csproj",
+      "projectUniqueName": "D:\\modul5_1302210134\\Modul5\\modul5_1302210134.csproj",
       "projectName": "modul5_1302210134",
-      "projectPath": "D:\\Chandra\\modul5_1302210134\\modul5_1302210134.csproj",
+      "projectPath": "D:\\modul5_1302210134\\Modul5\\modul5_1302210134.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-      "outputPath": "D:\\Chandra\\modul5_1302210134\\obj\\",
+      "outputPath": "D:\\modul5_1302210134\\Modul5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",

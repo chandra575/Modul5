@@ -1,14 +1,16 @@
 ﻿using System;
 
-public class Penjumlahan<T>
+public class Penjumlahan
 {
-	public T Data {get; set;}
-
-	public Penjumlahan(T data)
+	public dynamic JumlahTigaAngka<T> (T angka1, T angka2, T angka3)
 	{
-		this.Data = data;
+
+		dynamic hasilPenjumlahan = (dynamic)angka1 + (dynamic)angka2 + (dynamic)angka3 ;
+		
+		
+		return hasilPenjumlahan;
+		
 	}
-	
 }
 
 
